@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+84616d889ac347c5e247951048416d57 /home/wallace/workSPACE/ros_project/catkin_ws/devel/share/roseus/ros/learning_cplus/manifest.l
+23b807338aa6094ae670bb85e59407d5 CMakeFiles/clean_test_results
+ebaafc7194638b6a75ebf5ff05d1dc67 learning_cplus/CMakeFiles/learning_cplus_generate_messages_eus

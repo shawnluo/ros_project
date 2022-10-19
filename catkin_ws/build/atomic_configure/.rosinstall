@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wallace/workSPACE/ros_project/catkin_ws/devel/setup.sh

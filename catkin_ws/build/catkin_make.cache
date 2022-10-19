@@ -1,0 +1,2 @@
+learning_cplus
+-DCATKIN_DEVEL_PREFIX=/home/wallace/workSPACE/ros_project/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wallace/workSPACE/ros_project/catkin_ws/install -G Unix Makefiles
